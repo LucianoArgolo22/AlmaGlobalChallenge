@@ -1,9 +1,6 @@
 import logging
 
 class ClientLogger:
-    """
-    Just Generates logs of anything that's going on inside the app
-    """
     def __init__(self, filename:str, app_name:str) -> None:
         self.filename = filename
         self.level = logging.INFO

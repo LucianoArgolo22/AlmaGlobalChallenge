@@ -1,0 +1,129 @@
+[2022-12-11 13:42:57,279] - 14810 - INFO - Getting info from Yfinance for DLR
+[2022-12-11 14:03:37,997] - 15772 - INFO - Internal Thread Error ----- Traceback (most recent call last):
+  File "<ipython-input-1-98fede9f45d4>", line 12, in <cell line: 7>
+    ticker_rates = ServiceTickerRates(configs=configs)
+TypeError: __init__() missing 1 required positional argument: 'log'
+
+[2022-12-11 14:04:52,976] - 15772 - INFO - Getting info from Yfinance for DLR
+[2022-12-11 14:04:55,278] - 15772 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-11 14:04:55,387] - 15772 - INFO - DLR Spot Value : 106.96 
+[2022-12-11 14:04:55,387] - 15772 - INFO - DLR Bid Value : 106.59 
+[2022-12-11 14:04:55,388] - 15772 - INFO - DLR Ask Value : 107.13 
+[2022-12-11 14:04:55,388] - 15772 - INFO - Implicit Yearly rate: 20.496945555123645
+[2022-12-11 14:04:55,389] - 15772 - INFO - New implicit maker rate 20.496945555123645
+[2022-12-11 14:04:55,389] - 15772 - INFO - New implicit taker rate 20.496945555123645
+[2022-12-11 14:05:05,394] - 15772 - INFO - Getting info from Yfinance for DLR
+[2022-12-11 14:05:07,399] - 15772 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-11 14:05:07,498] - 15772 - INFO - DLR Spot Value : 106.96 
+[2022-12-11 14:05:07,499] - 15772 - INFO - DLR Bid Value : 106.59 
+[2022-12-11 14:05:07,499] - 15772 - INFO - DLR Ask Value : 107.13 
+[2022-12-11 14:05:07,500] - 15772 - INFO - Implicit Yearly rate: 20.496945555123645
+[2022-12-11 14:05:17,503] - 15772 - INFO - Getting info from Yfinance for DLR
+[2022-12-11 14:05:19,741] - 15772 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-11 14:05:19,841] - 15772 - INFO - DLR Spot Value : 106.96 
+[2022-12-11 14:05:19,842] - 15772 - INFO - DLR Bid Value : 106.59 
+[2022-12-11 14:05:19,842] - 15772 - INFO - DLR Ask Value : 107.13 
+[2022-12-11 14:05:19,843] - 15772 - INFO - Implicit Yearly rate: 20.496945555123645
+[2022-12-11 14:30:44,488] - 16591 - INFO - Internal Thread Error ----- Traceback (most recent call last):
+  File "<ipython-input-1-7fff9b3b8da6>", line 13, in <cell line: 7>
+    ticker_rates.run_for_all()
+  File "/Users/largolo/Desktop/Pavadas Mías/almagloblal/service/ServiceTicker.py", line 38, in run_for_all
+    thread = Thread(target= self.run_service_for_Ticker, args=(confi))
+NameError: name 'confi' is not defined
+
+[2022-12-11 14:30:59,851] - 16591 - INFO - Internal Thread Error ----- Traceback (most recent call last):
+  File "<ipython-input-2-7fff9b3b8da6>", line 13, in <cell line: 7>
+    ticker_rates.run_for_all()
+  File "/Users/largolo/Desktop/Pavadas Mías/almagloblal/service/ServiceTicker.py", line 38, in run_for_all
+    thread = Thread(target= self.run_service_for_Ticker, args=(config))
+NameError: name 'confi' is not defined
+
+[2022-12-11 14:34:41,237] - 16798 - INFO - Getting info from Yfinance for DLR
+[2022-12-11 14:34:43,391] - 16798 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-11 14:34:43,490] - 16798 - INFO - Implicit Yearly rate: 20.4390189267305
+[2022-12-11 14:34:43,490] - 16798 - INFO - Implicit Taker Yearly rate: 20.4390189267305
+[2022-12-11 14:34:43,490] - 16798 - INFO - Implicit Yearly rate: 20.623436799160054
+[2022-12-11 14:34:43,491] - 16798 - INFO - Implicit Maker Yearly rate: 20.623436799160054
+[2022-12-11 14:34:43,491] - 16798 - INFO - Implicit Yearly rate: 20.496945555123645
+[2022-12-11 14:34:43,492] - 16798 - INFO - Implicit Spot Yearly rate: 20.496945555123645
+[2022-12-11 14:34:43,492] - 16798 - INFO - New implicit maker rate 20.4390189267305
+[2022-12-11 14:34:43,493] - 16798 - INFO - New implicit taker rate 20.623436799160054
+[2022-12-11 14:34:43,493] - 16798 - INFO - New implicit taker rate 20.496945555123645
+[2022-12-11 14:34:43,494] - 16798 - INFO - Implicit Yearly rate: 20.496945555123645
+[2022-12-11 14:34:43,494] - 16798 - INFO - Implicit Spot Yearly rate: 20.496945555123645
+[2022-12-11 14:34:43,494] - 16798 - WARNING - Arbitritation Can be done
+[2022-12-11 14:34:53,500] - 16798 - INFO - Getting info from Yfinance for DLR
+[2022-12-11 14:34:55,456] - 16798 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-11 14:34:55,561] - 16798 - INFO - Implicit Yearly rate: 20.4390189267305
+[2022-12-11 14:34:55,562] - 16798 - INFO - Implicit Taker Yearly rate: 20.4390189267305
+[2022-12-11 14:34:55,562] - 16798 - INFO - Implicit Yearly rate: 20.623436799160054
+[2022-12-11 14:34:55,563] - 16798 - INFO - Implicit Maker Yearly rate: 20.623436799160054
+[2022-12-11 14:34:55,563] - 16798 - INFO - Implicit Yearly rate: 20.496945555123645
+[2022-12-11 14:34:55,563] - 16798 - INFO - Implicit Spot Yearly rate: 20.496945555123645
+[2022-12-11 14:34:55,564] - 16798 - INFO - New implicit taker rate 20.623436799160054
+[2022-12-11 14:34:55,564] - 16798 - INFO - New implicit taker rate 20.496945555123645
+[2022-12-11 14:34:55,564] - 16798 - INFO - Implicit Yearly rate: 20.496945555123645
+[2022-12-11 14:34:55,564] - 16798 - INFO - Implicit Spot Yearly rate: 20.496945555123645
+[2022-12-11 14:34:55,565] - 16798 - WARNING - Arbitritation Can be done
+[2022-12-11 14:35:05,570] - 16798 - INFO - Getting info from Yfinance for DLR
+[2022-12-11 14:35:07,464] - 16798 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-11 14:35:07,569] - 16798 - INFO - Implicit Yearly rate: 20.4390189267305
+[2022-12-11 14:35:07,570] - 16798 - INFO - Implicit Taker Yearly rate: 20.4390189267305
+[2022-12-11 14:35:07,570] - 16798 - INFO - Implicit Yearly rate: 20.623436799160054
+[2022-12-11 14:35:07,570] - 16798 - INFO - Implicit Maker Yearly rate: 20.623436799160054
+[2022-12-11 14:35:07,571] - 16798 - INFO - Implicit Yearly rate: 20.496945555123645
+[2022-12-11 14:35:07,571] - 16798 - INFO - Implicit Spot Yearly rate: 20.496945555123645
+[2022-12-11 14:35:07,571] - 16798 - INFO - New implicit taker rate 20.623436799160054
+[2022-12-11 14:35:07,572] - 16798 - INFO - New implicit taker rate 20.496945555123645
+[2022-12-11 14:35:07,572] - 16798 - INFO - Implicit Yearly rate: 20.496945555123645
+[2022-12-11 14:35:07,572] - 16798 - INFO - Implicit Spot Yearly rate: 20.496945555123645
+[2022-12-11 14:35:07,573] - 16798 - WARNING - Arbitritation Can be done
+[2022-12-11 15:33:05,856] - 20109 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:33:08,486] - 20109 - INFO - Getting info from Rofex for ('Prueba/MAR23',)
+[2022-12-11 15:36:29,267] - 20220 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:36:44,698] - 20234 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:37:01,801] - 20247 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:37:21,304] - 20260 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:38:42,617] - 20615 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:39:06,207] - 20635 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:40:25,774] - 20829 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:40:53,889] - 20829 - INFO - Implicit Yearly rate: 1.5862767377992748
+[2022-12-11 15:42:03,505] - 20895 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:42:06,410] - 20895 - INFO - Implicit Yearly rate: 0.7245511861206921
+[2022-12-11 15:42:12,037] - 20906 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:42:14,478] - 20906 - INFO - Implicit Yearly rate: 0.7245511861206921
+[2022-12-11 15:42:39,051] - 20930 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:42:41,917] - 20930 - INFO - Implicit Yearly rate: 0.7245511861206921
+[2022-12-11 15:42:47,733] - 20938 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:46:13,629] - 20938 - INFO - Implicit Yearly rate: 0.7245511861206921
+[2022-12-11 15:46:39,182] - 21091 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:46:42,050] - 21091 - INFO - Implicit Yearly rate: 1.5862767377992748
+[2022-12-11 15:50:06,561] - 21216 - INFO - Getting info from Yfinance for Prueba
+[2022-12-11 15:50:09,161] - 21216 - INFO - Implicit Yearly rate: 1.5862767377992748
+[2022-12-11 15:50:35,814] - 21247 - INFO - Getting info from Yfinance for DLR
+[2022-12-11 15:50:37,907] - 21247 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-11 15:50:38,024] - 21247 - INFO - Implicit Yearly rate: 18.82874312244549
+[2022-12-11 15:50:38,024] - 21247 - INFO - Implicit Taker Yearly rate: 18.82874312244549
+[2022-12-11 15:50:38,024] - 21247 - INFO - Implicit Yearly rate: 22.606984484244652
+[2022-12-11 15:50:38,025] - 21247 - INFO - Implicit Maker Yearly rate: 22.606984484244652
+[2022-12-11 15:50:38,025] - 21247 - INFO - Implicit Yearly rate: 20.496945555123645
+[2022-12-11 15:50:38,025] - 21247 - INFO - Implicit Spot Yearly rate: 20.496945555123645
+[2022-12-11 15:50:38,025] - 21247 - INFO - New implicit maker rate 18.82874312244549
+[2022-12-11 15:50:38,026] - 21247 - INFO - New implicit taker rate 22.606984484244652
+[2022-12-11 15:50:38,026] - 21247 - INFO - New implicit taker rate 20.496945555123645
+[2022-12-11 15:50:38,026] - 21247 - INFO - Implicit Yearly rate: 20.496945555123645
+[2022-12-11 15:50:38,026] - 21247 - INFO - Implicit Spot Yearly rate: 20.496945555123645
+[2022-12-11 15:50:38,026] - 21247 - WARNING - Arbitritation Can be done
+[2022-12-11 15:50:48,032] - 21247 - INFO - Getting info from Yfinance for DLR
+[2022-12-11 15:50:49,782] - 21247 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-11 15:50:49,893] - 21247 - INFO - Implicit Yearly rate: 18.82874312244549
+[2022-12-11 15:50:49,893] - 21247 - INFO - Implicit Taker Yearly rate: 18.82874312244549
+[2022-12-11 15:50:49,893] - 21247 - INFO - Implicit Yearly rate: 22.606984484244652
+[2022-12-11 15:50:49,893] - 21247 - INFO - Implicit Maker Yearly rate: 22.606984484244652
+[2022-12-11 15:50:49,894] - 21247 - INFO - Implicit Yearly rate: 20.496945555123645
+[2022-12-11 15:50:49,894] - 21247 - INFO - Implicit Spot Yearly rate: 20.496945555123645
+[2022-12-11 15:50:49,894] - 21247 - INFO - New implicit taker rate 22.606984484244652
+[2022-12-11 15:50:49,894] - 21247 - INFO - New implicit taker rate 20.496945555123645
+[2022-12-11 15:50:49,894] - 21247 - INFO - Implicit Yearly rate: 20.496945555123645
+[2022-12-11 15:50:49,895] - 21247 - INFO - Implicit Spot Yearly rate: 20.496945555123645
+[2022-12-11 15:50:49,895] - 21247 - WARNING - Arbitritation Can be done

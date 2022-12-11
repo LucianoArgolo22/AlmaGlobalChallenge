@@ -1,19 +1,19 @@
 [tool.poetry]
-name = "almaglobla"
+name = "almaglobal"
 version = "0.1.0"
 description = ""
-authors = ["LucianoArgolo22 <Lucianorayos1@gmail.com>"]
-readme = "README.md"
-packages = [{include = "scrapper_service"}]
+authors = ["largolo <luciano.argolo@mercadolibre.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.8,<4"
 requests = "^2.28.1"
 yfinance = "^0.1.87"
-
+pyRofex = "^0.4.1"
+unittest = "^0.0"
 
 [tool.poetry.dev-dependencies]
-ipykernel = "^6.19.2"
+pytest = "^5.2"
+
 [build-system]
-requires = ["poetry-core"]
+requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"

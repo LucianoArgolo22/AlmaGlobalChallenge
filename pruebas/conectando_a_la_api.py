@@ -1,7 +1,10 @@
 #%%
+import time
 import yfinance as yf
 import pyRofex
 import datetime
+from ClientLogger import ClientLogger
+
 user = 'lucianoagustinargolo7681'
 password = 'zoeqhH5!'
 account = 'REM7681'
@@ -30,13 +33,13 @@ class FinanceValues:
         return yf.Ticker(self.TickerName).info
 
     def get_spot_value(self) -> float:
-        return self.stock_info['regularMarketPrice']
+        return self.TickerInfo['regularMarketPrice']
 
     def get_bid_value(self) -> float:
-        return self.stock_info['bid']
+        return self.TickerInfo['bid']
 
     def get_ask_value(self) -> float:
-        return self.stock_info['ask']
+        return self.TickerInfo['ask']
 
 class Metrics:
     def __init__(self, finance_object:FinanceValues):
@@ -74,8 +77,11 @@ class TaskHandler:
             self.implicit_taker_value = new_value      
 
 # %%
-#service 
-while True:
-    finance_object = FinanceValues(TickerName='DLR', TickerNameFuture='DLR/MAR23', future_date_contract='2023-03-31')
-    metrics_object = Metrics(finance_object=finance_object)
-    metrics_object.implicit_yearly_rate()
+#job
+log = ClientLogger(filename='./app_prueba.log', app_name='FinanceBot') 
+while True:    
+    finance_object = FinanceValues(TickerName='DLR', TickerNameFuture='DLR/MAR23', future_date_contract='2023-03-31', log=log)
+    metrics_object = Metrics(finance_object=finance_object, log=log)
+    last_value = metrics_object.implicit_yearly_rate()
+    
+    time.sleep(10)
