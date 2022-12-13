@@ -2,14 +2,14 @@
 name = "almaglobal"
 version = "0.1.0"
 description = ""
-authors = ["largolo <luciano.argolo@mercadolibre.com>"]
+authors = ["largolo <lucianoagustinargolo@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.8,<4"
 requests = "^2.28.1"
 yfinance = "^0.1.87"
 pyRofex = "^0.4.1"
-unittest = "^0.0"
+logging = "^0.4.9.6"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

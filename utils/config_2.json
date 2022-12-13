@@ -1,0 +1,22 @@
+[
+    {
+        "TickerName":"PAMP.BA",
+        "TickerNameFuture":"PAMP/DIC22",
+        "FutureDate":"2022-12-31"
+    },
+    {
+        "TickerName":"YPFD.BA",
+        "TickerNameFuture":"YPFD/FEB23",
+        "FutureDate":"2023-02-28"
+    },
+    {
+        "TickerName":"GGAL.BA",
+        "TickerNameFuture":"GGAL/FEB23",
+        "FutureDate":"2023-02-28"
+    },
+    {
+        "TickerName":"ARS=X",
+        "TickerNameFuture":"DLR/MAR23",
+        "FutureDate":"2023-03-31"
+    }
+]

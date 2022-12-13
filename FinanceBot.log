@@ -127,3 +127,221 @@ NameError: name 'confi' is not defined
 [2022-12-11 15:50:49,894] - 21247 - INFO - Implicit Yearly rate: 20.496945555123645
 [2022-12-11 15:50:49,895] - 21247 - INFO - Implicit Spot Yearly rate: 20.496945555123645
 [2022-12-11 15:50:49,895] - 21247 - WARNING - Arbitritation Can be done
+[2022-12-12 20:16:45,019] - 4540 - INFO - Getting info from Yfinance for DLR
+[2022-12-12 20:16:46,581] - 4540 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-12 20:16:46,714] - 4540 - INFO - Implicit Yearly rate: 22.779718977702302
+[2022-12-12 20:16:46,718] - 4540 - INFO - Implicit Taker Yearly rate: 22.779718977702302
+[2022-12-12 20:16:46,721] - 4540 - INFO - Implicit Yearly rate: 24.224934309097314
+[2022-12-12 20:16:46,721] - 4540 - INFO - Implicit Maker Yearly rate: 24.224934309097314
+[2022-12-12 20:16:46,722] - 4540 - INFO - Implicit Yearly rate: 22.830696655430383
+[2022-12-12 20:16:46,723] - 4540 - INFO - Implicit Spot Yearly rate: 22.830696655430383
+[2022-12-12 20:16:46,724] - 4540 - INFO - New implicit maker rate 22.779718977702302
+[2022-12-12 20:16:46,724] - 4540 - INFO - New implicit taker rate 24.224934309097314
+[2022-12-12 20:16:46,725] - 4540 - INFO - New implicit taker rate 22.830696655430383
+[2022-12-12 20:16:46,726] - 4540 - INFO - Implicit Yearly rate: 22.830696655430383
+[2022-12-12 20:16:46,726] - 4540 - INFO - Implicit Spot Yearly rate: 22.830696655430383
+[2022-12-12 20:16:46,727] - 4540 - WARNING - Arbitritation Can be done
+[2022-12-12 20:17:58,831] - 5512 - INFO - Getting info from Yfinance for Prueba
+[2022-12-12 20:18:01,537] - 5512 - INFO - Implicit Yearly rate: 1.5716099791999172
+[2022-12-12 20:18:46,424] - 9824 - INFO - Getting info from Yfinance for Prueba
+[2022-12-12 20:18:48,679] - 9824 - INFO - Implicit Yearly rate: 18.91816029182609
+[2022-12-12 20:19:24,226] - 10448 - INFO - Getting info from Yfinance for Prueba
+[2022-12-12 20:19:26,752] - 10448 - INFO - Implicit Yearly rate: 18.91816029182609
+[2022-12-12 20:20:07,965] - 952 - INFO - Getting info from Yfinance for Prueba
+[2022-12-12 20:20:10,747] - 952 - INFO - Implicit Yearly rate: 18.91816029182609
+[2022-12-12 20:39:54,207] - 11752 - INFO - Getting info from Yfinance for DLR
+[2022-12-12 20:39:55,994] - 11752 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-12 20:39:56,079] - 11752 - INFO - Implicit Yearly rate: 880.9018971158451
+[2022-12-12 20:39:56,080] - 11752 - INFO - Implicit Spot Yearly rate: 880.9018971158451
+[2022-12-12 20:40:53,057] - 5020 - INFO - Getting info from Yfinance for DLR
+[2022-12-12 20:40:54,899] - 5020 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-12 20:40:54,997] - 5020 - INFO - Implicit Yearly rate: 880.9018971158451
+[2022-12-12 20:40:55,007] - 5020 - INFO - Implicit Spot Yearly rate: 880.9018971158451
+[2022-12-12 20:41:19,075] - 12384 - INFO - Getting info from Yfinance for DLR
+[2022-12-12 20:41:20,919] - 12384 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-12 20:41:21,056] - 12384 - INFO - Implicit Yearly rate: 880.9018971158451
+[2022-12-12 20:41:21,056] - 12384 - INFO - Implicit Spot Yearly rate: 880.9018971158451
+[2022-12-12 20:41:21,057] - 12384 - WARNING - new implicit rate: 880.9018971158451 
+ Last implicit rate: 0             
+ Opportunity to Sell at a better price
+[2022-12-12 20:41:31,059] - 12384 - INFO - Getting info from Yfinance for DLR
+[2022-12-12 20:41:32,803] - 12384 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-12 20:41:32,925] - 12384 - INFO - Implicit Yearly rate: 880.9018971158451
+[2022-12-12 20:41:32,926] - 12384 - INFO - Implicit Spot Yearly rate: 880.9018971158451
+[2022-12-12 20:41:42,939] - 12384 - INFO - Getting info from Yfinance for DLR
+[2022-12-12 20:41:44,711] - 12384 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-12 20:41:44,929] - 12384 - INFO - Implicit Yearly rate: 880.9018971158451
+[2022-12-12 20:41:44,930] - 12384 - INFO - Implicit Spot Yearly rate: 880.9018971158451
+[2022-12-12 20:41:54,940] - 12384 - INFO - Getting info from Yfinance for DLR
+[2022-12-12 20:41:56,762] - 12384 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-12 20:44:15,753] - 11640 - INFO - Getting info from Yfinance for DLR
+[2022-12-12 20:44:17,803] - 11640 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-12 20:45:00,250] - 12276 - INFO - Getting info from Yfinance for DLR
+[2022-12-12 20:45:02,300] - 12276 - INFO - Getting info from Rofex for ('DLR/MAR23',)
+[2022-12-12 20:47:53,054] - 2556 - INFO - Getting info from Yfinance for DLR
+[2022-12-12 20:48:04,712] - 2556 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 20:52:25,549] - 11936 - INFO - Getting info from Yfinance for USD/ARS
+[2022-12-12 20:53:49,337] - 9536 - INFO - Getting info from Yfinance for DLR/ARS
+[2022-12-12 20:54:34,615] - 10504 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 20:54:36,332] - 10504 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 20:55:18,771] - 10504 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 20:55:21,521] - 10504 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 20:55:26,256] - 10504 - WARNING - new implicit rate: 113.02596305217153 
+ Last implicit rate: 0             
+ Opportunity to Sell at a better price
+[2022-12-12 21:04:51,129] - 1588 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 21:04:52,779] - 1588 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 21:05:10,311] - 10788 - INFO - Getting info from Yfinance for GGAL
+[2022-12-12 21:05:12,209] - 10788 - INFO - Getting info from Rofex for GGAL/MAR23
+[2022-12-12 21:05:15,729] - 10788 - INFO - Internal Thread Error ----- Traceback (most recent call last):
+  File "c:\Users\AlmaGlobalChallenge\main.py", line 17, in <module>
+    ticker_rates_one_iteration.get_implicit_rates(config=config)
+  File "c:\Users\AlmaGlobalChallenge\service\ServiceTicker.py", line 23, in get_implicit_rates
+    finance_object = FinanceValues(TickerName=config['TickerName'], TickerNameFuture = config['TickerNameFuture'], future_date_contract= config['FutureDate'], log=self.log)
+  File "c:\Users\AlmaGlobalChallenge\client\ClientFinanceValues.py", line 24, in __init__
+    self.future_price = self.get_future_value()['marketData']['LA']['price']
+KeyError: 'marketData'
+
+[2022-12-12 21:33:23,609] - 11744 - INFO - Getting info from Yfinance for PAM
+[2022-12-12 21:33:25,468] - 11744 - INFO - Getting info from Rofex for PAMP/DIC22
+[2022-12-12 21:33:37,976] - 11744 - INFO - Implicit Yearly rate: 2.464272885138062e+25
+[2022-12-12 21:33:37,976] - 11744 - INFO - Implicit Spot Yearly rate: 2.464272885138062e+25
+[2022-12-12 21:33:37,976] - 11744 - INFO - Getting info from Yfinance for YPFD.BA
+[2022-12-12 21:33:39,831] - 11744 - INFO - Getting info from Rofex for YPFD/FEB23
+[2022-12-12 21:33:39,958] - 11744 - INFO - Implicit Yearly rate: 110.70798574661626
+[2022-12-12 21:33:39,959] - 11744 - INFO - Implicit Spot Yearly rate: 110.70798574661626
+[2022-12-12 21:33:39,959] - 11744 - INFO - Getting info from Yfinance for GGAL
+[2022-12-12 21:33:42,003] - 11744 - INFO - Getting info from Rofex for GGAL/FEB23
+[2022-12-12 21:33:42,098] - 11744 - INFO - Implicit Yearly rate: 2845659747.146517
+[2022-12-12 21:33:42,098] - 11744 - INFO - Implicit Spot Yearly rate: 2845659747.146517
+[2022-12-12 21:33:42,099] - 11744 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 21:33:43,529] - 11744 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 21:33:43,640] - 11744 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 21:33:43,641] - 11744 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 21:35:10,446] - 15524 - INFO - Getting info from Yfinance for PAM
+[2022-12-12 21:35:12,173] - 15524 - INFO - Getting info from Rofex for PAMP/DIC22
+[2022-12-12 21:35:12,285] - 15524 - INFO - Implicit Yearly rate: 2.464272885138062e+25
+[2022-12-12 21:35:12,286] - 15524 - INFO - Implicit Spot Yearly rate: 2.464272885138062e+25
+[2022-12-12 21:35:12,286] - 15524 - INFO - Getting info from Yfinance for YPF
+[2022-12-12 21:35:14,020] - 15524 - INFO - Getting info from Rofex for YPFD/FEB23
+[2022-12-12 21:35:14,109] - 15524 - INFO - Implicit Yearly rate: 135947009635194.66
+[2022-12-12 21:35:14,109] - 15524 - INFO - Implicit Spot Yearly rate: 135947009635194.66
+[2022-12-12 21:35:14,109] - 15524 - INFO - Getting info from Yfinance for GGAL
+[2022-12-12 21:35:16,221] - 15524 - INFO - Getting info from Rofex for GGAL/FEB23
+[2022-12-12 21:35:16,334] - 15524 - INFO - Implicit Yearly rate: 2845659747.146517
+[2022-12-12 21:35:16,334] - 15524 - INFO - Implicit Spot Yearly rate: 2845659747.146517
+[2022-12-12 21:35:16,334] - 15524 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 21:35:18,308] - 15524 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 21:35:18,402] - 15524 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 21:35:18,403] - 15524 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 21:35:32,345] - 8640 - INFO - Getting info from Yfinance for PAM
+[2022-12-12 21:35:34,035] - 8640 - INFO - Getting info from Rofex for PAMP/DIC22
+[2022-12-12 21:35:34,136] - 8640 - INFO - Implicit Yearly rate: 2.464272885138062e+25
+[2022-12-12 21:35:34,136] - 8640 - INFO - Implicit Spot Yearly rate: 2.464272885138062e+25
+[2022-12-12 21:35:34,136] - 8640 - INFO - Getting info from Yfinance for YPFD
+[2022-12-12 21:35:36,579] - 8640 - INFO - Getting info from Rofex for YPFD/FEB23
+[2022-12-12 21:35:36,702] - 8640 - INFO - Internal Thread Error ----- Traceback (most recent call last):
+  File "c:\Users\AlmaGlobalChallenge\main.py", line 17, in <module>
+    ticker_rates_one_iteration.get_implicit_rates(config=config)
+  File "c:\Users\AlmaGlobalChallenge\service\ServiceTicker.py", line 25, in get_implicit_rates
+    return metrics_object.get_implicit_rate()
+  File "c:\Users\AlmaGlobalChallenge\client\ClientMetrics.py", line 22, in get_implicit_rate
+    implicit_rate = self.implicit_yearly_rate(value = "regularMarketPrice" )
+  File "c:\Users\AlmaGlobalChallenge\client\ClientMetrics.py", line 17, in implicit_yearly_rate
+    rate =  ( (self.object.future_price/self.object.TickerInfo[value])**(360/days) - 1) * 100
+TypeError: unsupported operand type(s) for /: 'float' and 'NoneType'
+
+[2022-12-12 21:39:21,688] - 14976 - INFO - Getting info from Yfinance for PAM
+[2022-12-12 21:39:23,499] - 14976 - INFO - Getting info from Rofex for PAMP/DIC22
+[2022-12-12 21:39:23,591] - 14976 - INFO - Implicit Yearly rate: 2.464272885138062e+25
+[2022-12-12 21:39:23,591] - 14976 - INFO - Implicit Spot Yearly rate: 2.464272885138062e+25
+[2022-12-12 21:39:23,592] - 14976 - INFO - Getting info from Yfinance for YPFD.BA
+[2022-12-12 21:39:25,618] - 14976 - INFO - Getting info from Rofex for YPFD/FEB23
+[2022-12-12 21:39:25,718] - 14976 - INFO - Implicit Yearly rate: 110.70798574661626
+[2022-12-12 21:39:25,719] - 14976 - INFO - Implicit Spot Yearly rate: 110.70798574661626
+[2022-12-12 21:39:25,719] - 14976 - INFO - Getting info from Yfinance for GGAL.BA
+[2022-12-12 21:39:27,560] - 14976 - INFO - Getting info from Rofex for GGAL/FEB23
+[2022-12-12 21:39:27,676] - 14976 - INFO - Implicit Yearly rate: 119.70134359316008
+[2022-12-12 21:39:27,677] - 14976 - INFO - Implicit Spot Yearly rate: 119.70134359316008
+[2022-12-12 21:39:27,677] - 14976 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 21:39:29,389] - 14976 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 21:39:29,491] - 14976 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 21:39:29,492] - 14976 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 21:40:30,111] - 14712 - INFO - Getting info from Yfinance for PAMP.BA
+[2022-12-12 21:40:32,164] - 14712 - INFO - Getting info from Rofex for PAMP/DIC22
+[2022-12-12 21:40:32,265] - 14712 - INFO - Implicit Yearly rate: 618.5506774506911
+[2022-12-12 21:40:32,265] - 14712 - INFO - Implicit Spot Yearly rate: 618.5506774506911
+[2022-12-12 21:40:32,266] - 14712 - INFO - Getting info from Yfinance for YPFD.BA
+[2022-12-12 21:40:33,934] - 14712 - INFO - Getting info from Rofex for YPFD/FEB23
+[2022-12-12 21:40:34,026] - 14712 - INFO - Implicit Yearly rate: 110.70798574661626
+[2022-12-12 21:40:34,026] - 14712 - INFO - Implicit Spot Yearly rate: 110.70798574661626
+[2022-12-12 21:40:34,027] - 14712 - INFO - Getting info from Yfinance for GGAL.BA
+[2022-12-12 21:40:35,754] - 14712 - INFO - Getting info from Rofex for GGAL/FEB23
+[2022-12-12 21:40:35,868] - 14712 - INFO - Implicit Yearly rate: 119.70134359316008
+[2022-12-12 21:40:35,868] - 14712 - INFO - Implicit Spot Yearly rate: 119.70134359316008
+[2022-12-12 21:40:35,868] - 14712 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 21:40:37,530] - 14712 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 21:40:37,634] - 14712 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 21:40:37,634] - 14712 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 21:40:42,267] - 14712 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 21:40:43,925] - 14712 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 21:40:44,063] - 14712 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 21:40:44,063] - 14712 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 21:40:44,063] - 14712 - WARNING - new implicit rate: 113.02596305217153 
+ Last implicit rate: 0             
+ Opportunity to Sell at a better price
+[2022-12-12 21:40:54,073] - 14712 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 21:40:55,680] - 14712 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 21:40:55,809] - 14712 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 21:40:55,810] - 14712 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 22:03:25,390] - 15484 - INFO - Getting info from Yfinance for PAMP.BA
+[2022-12-12 22:03:27,638] - 15484 - INFO - Getting info from Rofex for PAMP/DIC22
+[2022-12-12 22:03:27,741] - 15484 - INFO - Implicit Yearly rate: 618.5506774506911
+[2022-12-12 22:03:27,741] - 15484 - INFO - Implicit Spot Yearly rate: 618.5506774506911
+[2022-12-12 22:03:27,742] - 15484 - INFO - Getting info from Yfinance for YPFD.BA
+[2022-12-12 22:03:29,653] - 15484 - INFO - Getting info from Rofex for YPFD/FEB23
+[2022-12-12 22:03:29,775] - 15484 - INFO - Implicit Yearly rate: 110.70798574661626
+[2022-12-12 22:03:29,776] - 15484 - INFO - Implicit Spot Yearly rate: 110.70798574661626
+[2022-12-12 22:03:29,777] - 15484 - INFO - Getting info from Yfinance for GGAL.BA
+[2022-12-12 22:03:31,716] - 15484 - INFO - Getting info from Rofex for GGAL/FEB23
+[2022-12-12 22:03:31,839] - 15484 - INFO - Implicit Yearly rate: 119.70134359316008
+[2022-12-12 22:03:31,840] - 15484 - INFO - Implicit Spot Yearly rate: 119.70134359316008
+[2022-12-12 22:03:31,841] - 15484 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 22:03:33,537] - 15484 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 22:03:33,661] - 15484 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 22:03:33,661] - 15484 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 22:05:15,013] - 15484 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 22:05:16,975] - 15484 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 22:05:17,131] - 15484 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 22:05:17,131] - 15484 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 22:05:17,151] - 15484 - WARNING - new implicit rate: 113.02596305217153 
+ Last implicit rate: 0             
+ Opportunity to Sell at a better price
+[2022-12-12 22:05:27,159] - 15484 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 22:05:28,920] - 15484 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 22:05:29,053] - 15484 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 22:05:29,054] - 15484 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 22:05:39,055] - 15484 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 22:05:40,696] - 15484 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 22:05:40,845] - 15484 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 22:05:40,845] - 15484 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 22:05:50,847] - 15484 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 22:05:52,750] - 15484 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 22:05:52,889] - 15484 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 22:05:52,889] - 15484 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 22:06:02,902] - 15484 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 22:06:04,683] - 15484 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 22:06:04,811] - 15484 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 22:06:04,812] - 15484 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 22:06:14,813] - 15484 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 22:06:16,955] - 15484 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 22:06:17,117] - 15484 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 22:06:17,118] - 15484 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 22:06:27,124] - 15484 - INFO - Getting info from Yfinance for ARS=X
+[2022-12-12 22:06:28,861] - 15484 - INFO - Getting info from Rofex for DLR/MAR23
+[2022-12-12 22:06:28,992] - 15484 - INFO - Implicit Yearly rate: 113.02596305217153
+[2022-12-12 22:06:28,993] - 15484 - INFO - Implicit Spot Yearly rate: 113.02596305217153
+[2022-12-12 22:10:02,878] - 3864 - INFO - Getting info from Yfinance for Prueba
+[2022-12-12 22:10:05,735] - 3864 - INFO - Implicit Yearly rate: 18.91816029182609
+[2022-12-12 22:10:10,987] - 16176 - INFO - Getting info from Yfinance for Prueba
+[2022-12-12 22:10:13,419] - 16176 - INFO - Implicit Yearly rate: 18.91816029182609
