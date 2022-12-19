@@ -1,5 +1,14 @@
 # FinanceBot English
 
+### Dependencies:
+    - Pyrofex
+    - Yfinance
+    - logging
+    - Datetime
+    - Threading
+    - sys
+    - Unittest
+
 (Tests are in tests folder)
 
 The Main program runs inside the Client Logger to generate a log of what happens so it has
